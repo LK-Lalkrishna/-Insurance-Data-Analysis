@@ -3,7 +3,7 @@
 This project involves analyzing insurance claim data to derive insights related to customer demographics, claim status, policy types, and active/inactive policyholders. The goal is to present a business-intelligent dashboard that helps stakeholders understand premium collection, claim distribution, and demographic impact.
 The project begins with importing raw data into SQL Server for structured storage and querying. It is then loaded into Power BI for interactive data profiling, advanced visualizations, and dashboard creation. Visuals include slicers, cards, ribbon charts, bar graphs, donut charts, matrix views, and more.
 # 🛠 Tools & Technologies
-* Microsoft SQL Server – For data import and management
+- Microsoft SQL Server – For data import and management
 - Power BI – For visualization and dashboard creation
 - Excel – Initial data exploration and preprocessing
 # 🎯 Objective:
